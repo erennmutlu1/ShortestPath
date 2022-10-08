@@ -1,5 +1,5 @@
 # ShortestPath
-The code can find the shortest path in the given maze.
+The code that can find the shortest path in the given maze.
 
 
 Output:
